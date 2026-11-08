@@ -63,14 +63,18 @@ Below are the key performance metrics evaluated on an 80/20 train-test split:
 ## Repository Structure
 
 ```text
-├── app.py
-├── requirements.txt
-├── README.md
-├── test_data.csv
-├── scaler.joblib
-└── model/
+1.app.py
+2.requirements.txt
+3.README.md
+4.test_data.csv
+5.scaler.joblib
+6. model/
     ├── logistic_regression.joblib
     ├── decision_tree.joblib
     ├── knn.joblib
     ├── naive_bayes.joblib
     └── support_vector_machine.joblib
+7. winequality-red.csv
+8. winequality-white.csv
+9. source_code.ipynb
+
