@@ -28,8 +28,8 @@ The assignment requires saving trained model artifacts (`.joblib`), creating an 
 ---
 
 ## Links & Deliverables
-- **GitHub Repository:** [Insert your GitHub Repo URL here]
-- **Streamlit Web Application:** [Insert your Streamlit App URL here]
+- **GitHub Repository:** [https://github.com/2026aj05737/MLAssignment2_BITSID_2026AJ05737/]
+- **Streamlit Web Application:** [https://mlassignment2bitsid2026aj05737git-yx5pemn5ddnym5bfe598j2.streamlit.app/]
 
 ---
 
